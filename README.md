@@ -22,17 +22,17 @@ Este é um aplicativo simples de cronômetro implementado em React. Ele exibe um
 - npm run dev
 
 ## Funcionalidades
-### Iniciar/Interromper Cronômetro: Clique no botão "GO/STOP" para iniciar ou interromper o cronômetro.
-### Reiniciar Cronômetro: Clique no botão "clean" para reiniciar o cronômetro, zerando o tempo acumulado.
+- Iniciar/Interromper Cronômetro: Clique no botão "GO/STOP" para iniciar ou interromper o cronômetro.
+- Reiniciar Cronômetro: Clique no botão "clean" para reiniciar o cronômetro, zerando o tempo acumulado.
 
 
 ## Estrutura do Projeto
-### src/App.jsx: Contém a lógica principal do cronômetro.
+- src/App.jsx: Contém a lógica principal do cronômetro.
 
-### src/assets/cronometro.png: Imagem do ícone de cronômetro.
+- src/assets/cronometro.png: Imagem do ícone de cronômetro.
 
-### src/style.css: Estilos CSS para a aparência do cronômetro.
+- src/style.css: Estilos CSS para a aparência do cronômetro.
 
 
 ## Contribuindo
-Sinta-se à vontade para contribuir com melhorias, correções de bugs ou adição de recursos. Abra um problema (issue) ou envie um pull request.
+- Sinta-se à vontade para contribuir com melhorias, correções de bugs ou adição de recursos. Abra um problema (issue) ou envie um pull request.
